@@ -1,0 +1,6 @@
+fbprophet==0.7.1
+Flask==1.1.2
+openpyxl==3.0.9
+PySide6==6.4.2
+statsmodels==0.13.5
+XlsxWriter==3.0.3
